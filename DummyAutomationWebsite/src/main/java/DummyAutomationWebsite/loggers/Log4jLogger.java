@@ -1,4 +1,4 @@
-package loggers;
+package DummyAutomationWebsite.loggers;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -7,8 +7,8 @@ public class Log4jLogger implements ILogger {
 
 	private Logger log4jLogger;
 	
-	public Log4jLogger(String className) {
-		this.log4jLogger = LogManager.getLogger(className);
+	public Log4jLogger(Class<?> clazz) {
+		this.log4jLogger = LogManager.getLogger(clazz);
 	}
 	
 	@Override

@@ -1,4 +1,4 @@
-package loggers;
+package DummyAutomationWebsite.loggers;
 
 public interface ILogger {
 	public void trace(String message);

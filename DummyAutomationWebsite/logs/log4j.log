@@ -1,0 +1,9 @@
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver

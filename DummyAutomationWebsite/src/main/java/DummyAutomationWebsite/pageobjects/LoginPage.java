@@ -1,11 +1,12 @@
-package pageobjects;
+package DummyAutomationWebsite.pageobjects;
 
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import components.Component;
+import DummyAutomationWebsite.components.Component;
 
 public class LoginPage extends Component {
 
@@ -14,8 +15,8 @@ public class LoginPage extends Component {
 	@FindBy(id="password")
 	private WebElement password;
 	@FindBy(id="login-button")
-	private WebElement login;
-	@FindBy(xpath="//div[@class='error-message-container']/h3")
+	private WebElement loginButton;
+	@FindBy(xpath="//div[@class='error-message-container error']/h3")
 	private WebElement errorMessage;
 	
 	public LoginPage(WebDriver driver) {
@@ -27,25 +28,20 @@ public class LoginPage extends Component {
 		this.driver.get("https://saucedemo.com/");
 	}
 	
-	public void login(String username, String password) {
-		this.enterUsername(username);
-		this.enterPassword(password);
-		this.login();
-	}
-	
-	private void enterUsername(String username) {
+	public void enterUsername(String username) {
 		this.username.sendKeys(username);
 	}
 	
-	private void enterPassword(String password) {
+	public void enterPassword(String password) {
 		this.password.sendKeys(password);
 	}
 	
-	private void login() {
-		this.login.click();	
+	public ProductPage login() {
+		this.loginButton.click();
+		return new ProductPage(this.driver);
 	}
 	
-	public String getErrorMessage() {
+	public String getErrorMessage() throws NoSuchElementException {
 		return this.errorMessage.getText();
 	}
 
