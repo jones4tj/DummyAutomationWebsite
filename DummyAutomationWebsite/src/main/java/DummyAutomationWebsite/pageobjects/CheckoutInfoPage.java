@@ -1,5 +1,6 @@
 package DummyAutomationWebsite.pageobjects;
 
+import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -18,6 +19,8 @@ public class CheckoutInfoPage extends Component {
 	private WebElement cancelButton;
 	@FindBy(id="continue")
 	private WebElement continueButton;
+	@FindBy(xpath="//div[@class='error-message-container error']/h3")
+	private WebElement errorMessage;
 	
 	
 	public CheckoutInfoPage(WebDriver driver) {
@@ -36,8 +39,13 @@ public class CheckoutInfoPage extends Component {
 		this.postalCode.sendKeys(postalCode);
 	}
 	
-	public void checkout() {
+	public CheckoutOverviewPage checkout() {
 		this.continueButton.click();
+		return new CheckoutOverviewPage(this.driver);
+	}
+	
+	public String getErrorMessage() throws NoSuchElementException {
+		return this.errorMessage.getText();
 	}
 	
 	public CartPage cancel() {

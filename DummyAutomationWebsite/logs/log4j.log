@@ -7,3 +7,365 @@
 [DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
 [DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
 [DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Removing Sauce Labs Backpack from cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting Sauce Labs Backpack is no longer in the cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicked Continue Shopping
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicked Continue Shopping
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicked Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - No error message
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Last Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Postal Code is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: Last Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Last Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: Postal Code is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Postal Code is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Cancelling
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Cancelling
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: First Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: Last Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Last Name is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Error: Postal Code is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting error message is Error: Postal Code is required
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting subtotal is calculated correctly
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting subtotal is calculated correctly
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting subtotal is calculated correctly
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting total is calculated correctly
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking finish
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-complete.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting header is Thank you for your order!
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Initializing driver
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering username: standard_user
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering password
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Attempting to login
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Adding Sauce Labs Backpack to cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking shopping cart
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Checking out
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering First Name: First Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Last Namee: Last Name
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Entering Postal Code: Postal Code
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Continue Checkout
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking finish
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-complete.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Clicking back home button
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Asserting URL is https://www.saucedemo.com/inventory.html
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Logging out...
+[DEBUG] _d{yyyy-MM-dd HH:mm:ss} [main] %{1} - Quitting driver

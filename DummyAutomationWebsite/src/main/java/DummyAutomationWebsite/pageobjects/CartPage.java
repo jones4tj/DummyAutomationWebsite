@@ -24,13 +24,22 @@ public class CartPage extends Component {
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void removeItem(String productName) {
+	public void removeProductFromCart(String productName) {
 		for (WebElement product : this.productsInCart) {
 			if (product.findElement(By.cssSelector("div.inventory_item_name")).getText().equals(productName)) {
 				product.findElement(By.cssSelector("button.btn_secondary")).click();
 				break;
 			}
 		}
+	}
+	
+	public boolean isProductInCart(String productName) {
+		for (WebElement product : this.productsInCart) {
+			if (product.findElement(By.cssSelector("div.inventory_item_name")).getText().equals(productName)) {
+				return true;
+			}
+		}
+		return false;
 	}
 	
 	public ProductPage continueShopping() {
@@ -42,5 +51,4 @@ public class CartPage extends Component {
 		this.checkoutButton.click();
 		return new CheckoutInfoPage(this.driver);
 	}
-
 }

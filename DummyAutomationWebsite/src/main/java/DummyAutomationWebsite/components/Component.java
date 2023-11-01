@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import DummyAutomationWebsite.pageobjects.CartPage;
+
 public class Component {
 	
 	protected WebDriver driver;
@@ -47,8 +49,9 @@ public class Component {
 		this.resetAppState.click();
 	}
 	
-	public void clickShoppingCart() {
+	public CartPage clickShoppingCart() {
 		this.shoppingCart.click();
+		return new CartPage(this.driver);
 	}
 	
 	public String getCurrentUrl() {
