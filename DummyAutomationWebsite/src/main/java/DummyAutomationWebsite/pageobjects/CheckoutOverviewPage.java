@@ -24,6 +24,7 @@ public class CheckoutOverviewPage extends Component {
 	private WebElement cancelButton;
 	@FindBy(id="finish")
 	private WebElement finishButton;
+	private final String url = "https://www.saucedemo.com/checkout-step-two.html";
 	
 	public CheckoutOverviewPage(WebDriver driver) {
 		super(driver);
@@ -58,5 +59,9 @@ public class CheckoutOverviewPage extends Component {
 	public CheckoutCompletePage finish() {
 		this.finishButton.click();
 		return new CheckoutCompletePage(this.driver);
+	}
+	
+	public String getUrl() {
+		return this.url;
 	}
 }

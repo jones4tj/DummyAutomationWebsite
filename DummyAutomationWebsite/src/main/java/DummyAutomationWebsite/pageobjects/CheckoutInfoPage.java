@@ -21,7 +21,7 @@ public class CheckoutInfoPage extends Component {
 	private WebElement continueButton;
 	@FindBy(xpath="//div[@class='error-message-container error']/h3")
 	private WebElement errorMessage;
-	
+	private final String url = "https://www.saucedemo.com/checkout-step-one.html";
 	
 	public CheckoutInfoPage(WebDriver driver) {
 		super(driver);
@@ -51,6 +51,10 @@ public class CheckoutInfoPage extends Component {
 	public CartPage cancel() {
 		this.cancelButton.click();
 		return new CartPage(this.driver);
+	}
+	
+	public String getUrl() {
+		return this.url;
 	}
 
 }

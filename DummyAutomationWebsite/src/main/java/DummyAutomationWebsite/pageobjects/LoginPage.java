@@ -18,6 +18,7 @@ public class LoginPage extends Component {
 	private WebElement loginButton;
 	@FindBy(xpath="//div[@class='error-message-container error']/h3")
 	private WebElement errorMessage;
+	private final String url = "https://www.saucedemo.com/";
 	
 	public LoginPage(WebDriver driver) {
 		super(driver);
@@ -43,6 +44,10 @@ public class LoginPage extends Component {
 	
 	public String getErrorMessage() throws NoSuchElementException {
 		return this.errorMessage.getText();
+	}
+
+	public String getUrl() {
+		return this.url;
 	}
 
 }

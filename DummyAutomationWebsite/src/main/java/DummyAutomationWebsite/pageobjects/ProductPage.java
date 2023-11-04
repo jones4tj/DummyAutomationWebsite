@@ -20,6 +20,7 @@ public class ProductPage extends Component {
 	private WebElement productSort;
 	@FindBy(css="div.inventory_item")
 	private List<WebElement> productElements;
+	private final String url = "https://www.saucedemo.com/inventory.html";
 	
 	public ProductPage(WebDriver driver) {
 		super(driver);
@@ -54,4 +55,7 @@ public class ProductPage extends Component {
 		}
 	}
 
+	public String getUrl() {
+		return this.url;
+	}
 }

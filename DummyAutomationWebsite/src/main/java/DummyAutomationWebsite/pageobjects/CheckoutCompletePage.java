@@ -13,6 +13,7 @@ public class CheckoutCompletePage extends Component {
 	private WebElement header;
 	@FindBy(id="back-to-products")
 	private WebElement backHomeButton;
+	private final String url = "https://www.saucedemo.com/checkout-complete.html";
 	
 	public CheckoutCompletePage(WebDriver driver) {
 		super(driver);
@@ -25,5 +26,9 @@ public class CheckoutCompletePage extends Component {
 	
 	public void clickHomeButton() {
 		this.backHomeButton.click();
+	}
+	
+	public String getUrl() {
+		return this.url;
 	}
 }

@@ -18,6 +18,7 @@ public class CartPage extends Component {
 	private WebElement continueShoppingButton;
 	@FindBy(id="checkout")
 	private WebElement checkoutButton;
+	private final String url = "https://www.saucedemo.com/cart.html";
 	
 	public CartPage(WebDriver driver) {
 		super(driver);
@@ -50,5 +51,9 @@ public class CartPage extends Component {
 	public CheckoutInfoPage checkout() {
 		this.checkoutButton.click();
 		return new CheckoutInfoPage(this.driver);
+	}
+	
+	public String getUrl() {
+		return this.url;
 	}
 }

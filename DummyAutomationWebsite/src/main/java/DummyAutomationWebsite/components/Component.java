@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import DummyAutomationWebsite.pageobjects.CartPage;
 
-public class Component {
+public abstract class Component {
 	
 	protected WebDriver driver;
 	
@@ -57,4 +57,6 @@ public class Component {
 	public String getCurrentUrl() {
 		return this.driver.getCurrentUrl();
 	}
+	
+	public abstract String getUrl();
 }
