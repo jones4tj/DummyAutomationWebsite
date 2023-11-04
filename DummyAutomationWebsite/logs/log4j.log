@@ -210,3 +210,215 @@
 [DEBUG] 2023-11-04 14:20:40 [main] %{1} - Asserting URL is https://www.saucedemo.com/inventory.html
 [DEBUG] 2023-11-04 14:20:40 [main] %{1} - Logging out
 [DEBUG] 2023-11-04 14:20:41 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:07 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Epic sadface: Username is required
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Epic sadface: Password is required
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:09 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:12 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:12 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:12 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:12 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Epic sadface: Username is required
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Entering username: locked_out_user
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Epic sadface: Password is required
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Epic sadface: Sorry, this user has been locked out.
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:14 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:15 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:15 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:15 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:15 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:18 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:18 [main] %{1} - Adding product: Sauce Labs Backpack to cart
+[DEBUG] 2023-11-04 14:29:18 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:19 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:19 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:20 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:20 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:20 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:20 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Sorting products by AtoZ
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Asserting sorting occurred properly
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:23 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:25 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:25 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:25 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:25 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Sorting products by ZtoA
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Asserting sorting occurred properly
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:28 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:29 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:29 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:29 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:29 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Sorting products by LowtoHigh
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Asserting sorting occurred properly
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:33 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:34 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:34 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:34 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:34 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:37 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:37 [main] %{1} - Sorting products by HightoLow
+[DEBUG] 2023-11-04 14:29:37 [main] %{1} - Asserting sorting occurred properly
+[DEBUG] 2023-11-04 14:29:37 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:38 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:38 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:39 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:39 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:39 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:39 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:42 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:42 [main] %{1} - Adding product: Sauce Labs Backpack to cart
+[DEBUG] 2023-11-04 14:29:42 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:29:42 [main] %{1} - Removing Sauce Labs Backpack from cart
+[DEBUG] 2023-11-04 14:29:42 [main] %{1} - Asserting Sauce Labs Backpack is no longer in the cart
+[DEBUG] 2023-11-04 14:29:45 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:45 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:45 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:47 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:47 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:47 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:47 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Continue shopping
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Asserting URL is https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:50 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:51 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:51 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:51 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:51 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:29:54 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:29:55 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:29:55 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:29:56 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:29:56 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:29:56 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:29:56 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Continue Checkout
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Error: First Name is required
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Entering first name: John
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Continue Checkout
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Error: Last Name is required
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Entering last name: Test
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Continue Checkout
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Error: Postal Code is required
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Entering postal code: postalCode
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Continue checkout
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:29:59 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:30:00 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:30:00 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:30:01 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:30:01 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:30:01 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:30:01 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Cancelling checkout
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Asserting URL is https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:30:04 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:30:06 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:30:06 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:30:06 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:30:06 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Entering first name: John
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Entering last name: Test
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Entering postal code: postalCode
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Continuing checkout
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:30:09 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:30:10 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:30:10 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:30:10 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:30:11 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Adding product: Sauce Labs Backpack to cart
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Entering first name: John
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Entering last name: Test
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Entering postal code: postalCode
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Continuing checkout
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Asserting subtotal is calculated correctly
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Asserting total is calculated correctly
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Quitting driver
+[DEBUG] 2023-11-04 14:30:14 [main] %{1} - Initializing driver
+[DEBUG] 2023-11-04 14:30:15 [main] %{1} - Navigating to URL: https://www.saucedemo.com/
+[DEBUG] 2023-11-04 14:30:15 [main] %{1} - Entering username: standard_user
+[DEBUG] 2023-11-04 14:30:15 [main] %{1} - Entering password
+[DEBUG] 2023-11-04 14:30:15 [main] %{1} - Attempting to login
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Adding product: Sauce Labs Backpack to cart
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/cart.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Checking out
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-one.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Entering first name: John
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Entering last name: Test
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Entering postal code: postalCode
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Continuing checkout
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-step-two.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Finishing checkout
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/checkout-complete.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Asserting URL is https://www.saucedemo.com/checkout-complete.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Asserting header is Thank you for your order!
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Clicking back home button
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Navigating to URL: https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Asserting URL is https://www.saucedemo.com/inventory.html
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Logging out
+[DEBUG] 2023-11-04 14:30:19 [main] %{1} - Quitting driver
