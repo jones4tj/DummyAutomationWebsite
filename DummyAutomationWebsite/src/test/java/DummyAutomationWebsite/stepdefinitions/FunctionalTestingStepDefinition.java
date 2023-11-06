@@ -4,6 +4,8 @@ import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -11,8 +13,6 @@ import org.testng.Assert;
 
 import DummyAutomationWebsite.components.Comparators;
 import DummyAutomationWebsite.components.ProductSort;
-import DummyAutomationWebsite.loggers.ILogger;
-import DummyAutomationWebsite.loggers.Log4jLogger;
 import DummyAutomationWebsite.pageobjects.CartPage;
 import DummyAutomationWebsite.pageobjects.CheckoutCompletePage;
 import DummyAutomationWebsite.pageobjects.CheckoutInfoPage;
@@ -27,7 +27,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class FunctionalTestingStepDefinition {
 	
-	private ILogger logger;
+	private Logger logger;
 	private WebDriver driver;
 	private LoginPage loginPage;
 	private ProductPage productPage;
@@ -38,7 +38,7 @@ public class FunctionalTestingStepDefinition {
 	
 	@Before
 	public void setup() {
-		this.logger = new Log4jLogger(this.getClass());
+		this.logger = LogManager.getLogger(this.getClass());
 		this.logger.debug("Initializing driver");
 		WebDriverManager.chromedriver().setup();
 		this.driver = new ChromeDriver();
